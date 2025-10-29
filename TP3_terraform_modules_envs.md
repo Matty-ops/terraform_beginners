@@ -188,4 +188,4 @@ Chaque workspace aura son propre fichier d’état (`terraform.tfstate.d/dev/ter
 
 ---
 
-*Auteur : Matthieu Minet — IAxLab Inside*
+*Auteur : Matthieu Minet*
