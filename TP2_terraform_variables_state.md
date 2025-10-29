@@ -244,4 +244,4 @@ terraform {
 
 ---
 
-*Auteur : Matthieu Minet — IAxLab Inside*
+*Auteur : Matthieu Minet *
