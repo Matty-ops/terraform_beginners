@@ -184,4 +184,4 @@ terraform apply    # applique le plan
 
 ---
 
-*Auteur : Matthieu Minet — IAxLab Inside*
+*Auteur : Matthieu Minet*
